@@ -10,7 +10,7 @@
 EMAIL="mail@yourdomain.com"
 
 ##list your services you want to check
-SERVICES=(  'mysql' 'apache2' )
+SERVICES=(  'mysql' 'nginx' 'hhvm' )
 
 #### DO NOT CHANGE anything BELOW ####
 
